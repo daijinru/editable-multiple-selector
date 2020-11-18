@@ -1,0 +1,16 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "esrun run index.vue --file vue"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "element-ui": "^2.14.1",
+    "esrun-cli": "^1.0.4-alpha.3"
+  }
+}
